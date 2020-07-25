@@ -8,4 +8,4 @@ in particular.
 
 It's dangerous to go alone, so take some memes with you
 
-![dank dev memes](https://pbs.twimg.com/profile_banners/155641275/1540738450/1080x360)
+![dank dev memes](https://github.com/paslandau/paslandau/blob/master/meme-wall.jpg?raw=true)
