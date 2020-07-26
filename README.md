@@ -9,6 +9,7 @@ in particular.
 ### Find me at
 - [Twitter](https://twitter.com/PascalLandau)
 - [LinkedIn](https://de.linkedin.com/in/pascallandau)
+- [My Blog](https://www.pascallandau.com/blog/)
 
 ### It's dangerous to go alone
 so take some memes with you
