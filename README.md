@@ -1,4 +1,4 @@
-### My dearest reader
+My dearest reader,
 
 very welcome to my little open source playground. Please visit [https://www.pascallandau.com/](https://www.pascallandau.com/) for my personal blog where I ramble about software development in general and 
 [Docker](https://www.pascallandau.com/blog/structuring-the-docker-setup-for-php-projects/), 
@@ -6,7 +6,7 @@ PHP and
 [Google Big Query](https://www.pascallandau.com/bigquery-snippets/)
 in particular.
 
-### Find me at**
+### Find me at
 - [Twitter](https://twitter.com/PascalLandau)
 - [LinkedIn](https://de.linkedin.com/in/pascallandau)
 
